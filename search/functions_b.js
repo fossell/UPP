@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['otlft_334',['otlft',['../OTLFT_8f.html#a44baec1992cd116c348393de3daf2f2b',1,'OTLFT.f']]],
-  ['otlift_335',['otlift',['../OTLIFT_8f.html#a5ad053b19cdb3e7a7ebc7a4a0d9642f3',1,'OTLIFT.f']]]
+  ['otlft',['OTLFT',['../OTLFT_8f.html#a544edbe108f8617b421567a818a2fcbb',1,'OTLFT.f']]],
+  ['otlift',['OTLIFT',['../OTLIFT_8f.html#ac593a8e8f21ab04345f692158107e5f5',1,'OTLIFT.f']]]
 ];

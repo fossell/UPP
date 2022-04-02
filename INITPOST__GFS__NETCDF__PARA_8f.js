@@ -1,6 +1,6 @@
 var INITPOST__GFS__NETCDF__PARA_8f =
 [
-    [ "initpost_gfs_netcdf_para", "INITPOST__GFS__NETCDF__PARA_8f.html#aab70748c95a4a2cc05650aa87a0bd8be", null ],
-    [ "read_netcdf_2d_para", "INITPOST__GFS__NETCDF__PARA_8f.html#a27c4820163379b4e5d240c04ed09b469", null ],
-    [ "read_netcdf_3d_para", "INITPOST__GFS__NETCDF__PARA_8f.html#abd80b4dc865642afb3c09565c086ff76", null ]
+    [ "INITPOST_GFS_NETCDF_PARA", "INITPOST__GFS__NETCDF__PARA_8f.html#ac03ee692f2d0e247d9958bdb75df3643", null ],
+    [ "read_netcdf_2d_para", "INITPOST__GFS__NETCDF__PARA_8f.html#a31497cd81970b2e4cc731de8c5d6864a", null ],
+    [ "read_netcdf_3d_para", "INITPOST__GFS__NETCDF__PARA_8f.html#a1694290dc62d68715191b0c3ce589162", null ]
 ];
